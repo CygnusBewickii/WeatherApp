@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang=ru data-theme="bumblebee">
+<html lang=ru data-theme="weather">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
